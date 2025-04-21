@@ -1,0 +1,7 @@
+ANNOTATIONS
+    -create basic structure 
+    -connect with database
+    -create animated background and the other frontend
+    -buy domain
+    -connect all 
+    -
